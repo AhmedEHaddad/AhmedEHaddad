@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 🌱 I’m currently learning CyberSecurity & Web Development.
+* I’m looking to collaborate on any side projects with cool ideas to grow my experties and tech stack.
+* 💬 Ask me about anything ...
+* 📫 How to reach me:
+                    - Twitter: <a href ="https://twitter.com/AhmadEMdev" >@AhmadEMdev</a>
+*
